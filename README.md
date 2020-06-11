@@ -34,8 +34,8 @@ optional arguments:
   -c COMP, --compression COMP
                         compression level (0-9) 
 						(default: 6)
-  -b BG_COLOR, --bgcolor BG_COLOR
-						determines background color in RGBA (separate each channel with a blank space
+ -c BG_COLOR, --bgcolor BG_COLOR
+                        determines background color in RGBA (separate each channel with a blank space 
 						(default: 255 255 255 255)
 ```
 
